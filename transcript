@@ -1,0 +1,18 @@
+# ERROR: No extended dataflow license exists
+# vsim work.FSM_tb 
+# Start time: 19:05:13 on Mar 17,2022
+# Loading work.FSM_tb
+# Loading work.FSM
+add wave -position insertpoint  \
+sim:/FSM_tb/CLOCK_PERIOD \
+sim:/FSM_tb/HALF_PERIOD \
+sim:/FSM_tb/Activate_tb \
+sim:/FSM_tb/Up_Max_tb \
+sim:/FSM_tb/Dn_Max_tb \
+sim:/FSM_tb/clk_tb \
+sim:/FSM_tb/rst_tb \
+sim:/FSM_tb/UP_M_tb \
+sim:/FSM_tb/DN_M_tb \
+sim:/FSM_tb/output_signals
+# End time: 19:12:09 on Mar 17,2022, Elapsed time: 0:06:56
+# Errors: 0, Warnings: 0
